@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.dreamweave.ai',
+  appId: 'com.rcl26.dreamweave',
   appName: 'dreamweave-ai',
   webDir: 'dist',
   server: {
